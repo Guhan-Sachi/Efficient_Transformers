@@ -1,0 +1,10 @@
+torch
+torchvision
+timm
+streamlit
+requests
+pillow
+matplotlib
+numpy
+grad-cam
+scikit-image
